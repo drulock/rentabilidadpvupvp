@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background: #2B7A0B;
+}
+
+header {
+    background-color: #5BB318;
+    color: white;
+    font-family: 'Luckiest Guy', cursive;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+
+.boton {
+    font-family: 'Luckiest Guy', cursive;
+    color: white;
+    background-image: -webkit-linear-gradient(top, #2B7A0B, #7DCE13);
+    border: 2px solid black;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 3px 2px 1px #2B7A0B;
+    -webkit-box-shadow: 6px 5px 24px #2B7A0B;
+    -moz-box-shadow: 6px 5px 24px #2B7A0B;
+    box-shadow: 6px 5px 24px #2B7A0B;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.boton:hover {
+    background-image: -webkit-linear-gradient(top, #7DCE13, #2B7A0B);
+    text-decoration: none;
+}
+
+.input {
+    font-family: 'Luckiest Guy', cursive;
+    color: black;
+    background-image: grey;
+    border: 2px solid black;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 10px;
+    width: 150px;
+}
+
+
+
+.resultadop {
+    color:white;
+    font-size: small;
+    
+}
+
+.resultado {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    color: yellow;
+}
+
