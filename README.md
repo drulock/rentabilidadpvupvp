@@ -1,2 +1,2 @@
 # rentabilidadpvupvp
-P{agina creada para obtener rentabilidad de plantas en pvu pvp
+Pagina creada para obtener rentabilidad de plantas en pvu pvp
